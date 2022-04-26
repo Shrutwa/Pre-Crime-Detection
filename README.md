@@ -1,6 +1,7 @@
 
 #Pre-Crime-Detection
 1) Libraries to be installed:
+
     a)  import csv
    
         import nltk
